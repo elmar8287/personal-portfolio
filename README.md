@@ -5,7 +5,7 @@
 > personal-portfolio-trial
 > It is a copy from one of my Admissions Trial projects
 
-![screenshot](./app_screenshot.PNG)
+![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
