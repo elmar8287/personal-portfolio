@@ -1,5 +1,40 @@
-# FCC Test Suite Template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# Project Name
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> personal-portfolio-trial
+> It is a copy from one of my Admissions Trial projects
+
+![screenshot](./app_screenshot.PNG)
+
+Additional description about the project and its features.
+
+## Built With
+
+- HTML
+- CSS
+
+## Live Demo
+
+[Live Demo Link](https://elmar8287.github.io/personal-portfolio-trial/)
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Setup
+
+Make shure that all files in the same directory
+
+Open index.html file.
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@elmar8287](https://github.com/elmar8287)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
